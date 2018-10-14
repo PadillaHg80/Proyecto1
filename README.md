@@ -1,6 +1,7 @@
-# Proyecto1
+# Introducción a las ciencias de la computación
+## Proyecto 1
 
-Usando lo visto hasta la práctica 5 del curso de <b>Introducción a las ciencias de la computación </b>
+Usando lo visto hasta la práctica 5 del curso de Introducción a las ciencias de la computación 
 se creará una base de datos que usa como backend una lista, cuyos elementos son del tipo <code>Registro</code>.
 
 En el caso de mi proyecto, la clase que implementará <code>Registro</code> será <code>Catrina.java</code>.
